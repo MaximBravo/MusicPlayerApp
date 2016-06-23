@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+
+    android:padding="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/playlist_1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F44336"
+        android:layout_margin="4dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Playlist 1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F44336"
+        android:layout_margin="4dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Playlist 2"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F44336"
+        android:layout_margin="4dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Playlist 3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F44336"
+        android:layout_margin="4dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Playlist 4"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F44336"
+        android:layout_margin="4dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Playlist 5"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F44336"
+        android:layout_margin="4dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Playlist 6"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F44336"
+        android:layout_margin="4dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Playlist 7"/>
+</LinearLayout>
